@@ -1,9 +1,9 @@
-# docker-s3deploy
+# docker-go3up
 
-https://hub.docker.com/r/clburlison/s3deploy/
+https://hub.docker.com/r/petems/go3up/
 
-A docker container for https://github.com/bep/s3deploy
+A docker container for https://github.com/alexaandru/go3up
 
 ```bash
-docker run --rm -it clburlison/s3deploy s3deploy -V
+docker run --rm -it petems/go3up go3up -V
 ```
